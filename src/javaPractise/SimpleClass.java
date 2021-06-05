@@ -10,7 +10,7 @@ public class SimpleClass extends CallingMethods{
 		int result=obj.sumOfNumbers(12, 13, 10);
 		System.out.println(result);
 		
-		spiltText("Guru");
+		spiltText("Guru"); 		//Calling method from different class
 	}
 
 }
